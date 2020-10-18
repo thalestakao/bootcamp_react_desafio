@@ -1,4 +1,4 @@
-# Desafio
+# Trabalho Prático
 
 ## ENUNCIADO
 
@@ -40,6 +40,7 @@ componentDidMount() {
     	```javascript
 
 return (
+
 <div style={box}>
 <div style={totalStyles}></div>
 <div style={discountInssBarStyles}></div>
